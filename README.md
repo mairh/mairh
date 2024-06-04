@@ -6,11 +6,9 @@ This is the place where I opensource stuff and break things :rofl:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ujjwalmairh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalmairh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/1695685/zaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 
-<details>
-  <summary><b>✨&nbsp;&nbsp;Open&nbsp;Source</b></summary>
-  <br/>
+<summary><b>✨&nbsp;&nbsp;Open&nbsp;Source</b></summary>
+<br/>
 
 ### My Opensource Story
 
@@ -24,4 +22,3 @@ All of my projects that I worked on are released as open-source on GitHub, this 
 ### Hackathons
 
 - [DevPost](https://devpost.com/mairh)
-</details>
