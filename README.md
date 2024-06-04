@@ -2,10 +2,6 @@
 
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 &nbsp;I’m currently working on something cool with blackchain and web3 :wink:
-- 💬 &nbsp;Ask me about anything related to scaling enginnering teams, tech and developer experience
-- 📫 &nbsp;How to reach me: [@ujjwalmairh](https://www.linkedin.com/in/ujjwalmairh/)
-
 🔗 &nbsp;**Connect with me**
 
 <p align="left">
