@@ -7,9 +7,6 @@ This is the place where I opensource stuff and break things :rofl:
 <p align="left">
 <a href="https://www.linkedin.com/in/ujjwalmairh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalmairh" height="30" width="40" /></a>
 
-<summary><b>✨&nbsp;&nbsp;Open&nbsp;Source</b></summary>
-<br/>
-
 ### My Opensource Story
 
 All of my projects that I worked on are released as open-source on GitHub, this includes some of the GitHub trending projects:
