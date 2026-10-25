@@ -1,15 +1,3 @@
 ### Hi there
 
 This is the place where I opensource stuff and break things :rofl:
-
-### My Opensource Story
-
-All of my projects that I worked on are released as open-source on GitHub, this includes some of the GitHub trending projects:
-
-- [Apollo Universal Starter Kit](https://github.com/sysgears/apollo-universal-starter-kit) - Apollo Universal Starter Kit is an SEO-friendly, fully-configured, modular starter application that helps developers to streamline web, server, and mobile development with cutting-edge technologies and ultimate code reuse.
-- [Create Apollo App](https://github.com/sysgears/create-apollo-app) - Create Apollo App is a command-line tool designed to generate fully-configured starter Apollo GraphQL projects with essential dependencies for developing web, server and mobile applications and zero build configuration.
-- [GraphQL Java Starter Kit](https://github.com/sysgears/graphql-java-starter-kit) - GraphQL Java Starter Kit — GraphQL Java app boilerplate for Server with React JavaScript code for Mobile and Web, stack: Java, Spring, Apollo, GraphQL, React 16, React Native, Expo, Express, SQLite, Twitter Bootstrap, Babel, Webpack.
-
-### Hackathons
-
-- [DevPost](https://devpost.com/mairh)
